@@ -29,40 +29,34 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório editado, e desenvolvido através de orientação do Felipe Silva Aguiar - Software Consultant Developer - DIO.
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Utilizei uma esteira de prompts assertivos para gerar cada etapa do processo criativo. Este podcast fictício foi criado através de IA. Usei o ChatGPT para criar um enredo, depois foi criada a imagem de capa do álbum no Copilot, após a criação do enredo, editei o texto na Suite WPS com o Docs e enviei os textos com as falas separadas para o ElevenLabs para sintetizar cada voz e  converter o texto para áudio. Usando o Audacity para editar e montar cada áudio em seu devido lugar gerando um áudio final, posteriormente o CupCut para introduzir a música de fundo dando assim um toque mais profissional, finalizando o trabalho. O SoundCloud para o upload do áudio. Ambas ferramentas gratuitas.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Copilot](https://copilot.microsoft.com/onboarding)
+- [WPS](https://br.wps.com/)
+- [ElevenLabs](https://beta.elevenlabs.io/) 
+- [Audacity](https://www.audacityteam.org/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [SoundCloud](https://soundcloud.com/discover)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
+- Imagem gerada na IA do Copilot para capa do álbum
+- Edição do texto no WPS
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Audacity paraa edição e montagem dos áudios
+- Capcut para retirar ruídos do aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- https://web.dio.me/lab/criando-um-podcast-com-ias/learning/3f37b3c7-b680-482e-8994-1644f1045a63
 
 ## 👨‍💻 Expert
 
@@ -73,24 +67,19 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspBernardo Moreira<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/bmore1000">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href=https:/www.linkedin.com/in/bernardo-moreira-791b0134/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
     &nbsp;|&nbsp;</p>
-</p>
 <br/><br/>
 <p>
 
