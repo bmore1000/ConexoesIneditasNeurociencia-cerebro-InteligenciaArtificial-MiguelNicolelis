@@ -65,7 +65,7 @@ Utilizei uma esteira de prompts assertivos para gerar cada etapa do processo cri
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/151203779?s=400&u=589dd5cb9033d9161e522ce209ddb344cc3737e0&v=4"
     />
     <p>&nbsp&nbsp&nbspBernardo Moreira<br>
     &nbsp&nbsp&nbsp
@@ -85,4 +85,4 @@ Utilizei uma esteira de prompts assertivos para gerar cada etapa do processo cri
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Bernardo Moreira](https://github.com/bmore1000)
