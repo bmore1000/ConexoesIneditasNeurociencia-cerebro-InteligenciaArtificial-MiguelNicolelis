@@ -58,6 +58,10 @@ Utilizei uma esteira de prompts assertivos para gerar cada etapa do processo cri
 
 - https://web.dio.me/lab/criando-um-podcast-com-ias/learning/3f37b3c7-b680-482e-8994-1644f1045a63
 
+## 📚 Link do Podcast
+
+- https://on.soundcloud.com/rmtSDLkaTXkmoq7Y8
+
 ## 👨‍💻 Expert
 
 <p>
