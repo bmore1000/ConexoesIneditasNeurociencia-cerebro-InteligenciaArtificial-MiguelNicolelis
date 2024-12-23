@@ -82,7 +82,6 @@ Utilizei uma esteira de prompts assertivos para gerar cada etapa do processo cri
         href=https:/www.linkedin.com/in/bernardo-moreira-791b0134/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
     &nbsp;|&nbsp;</p>
 <br/><br/>
 <p>
