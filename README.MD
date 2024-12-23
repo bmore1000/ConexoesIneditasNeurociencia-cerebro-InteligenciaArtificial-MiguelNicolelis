@@ -73,15 +73,12 @@ Utilizei uma esteira de prompts assertivos para gerar cada etapa do processo cri
     />
     <p>&nbsp&nbsp&nbspBernardo Moreira<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/bmore1000">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href=https:/www.linkedin.com/in/bernardo-moreira-791b0134/">
-        LinkedIn
-    </a>
+    <a href="https://www.linkedin.com/in/bernardo-moreira-791b0134/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/bmore1000" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  </a>
 </p>
 <br/><br/>
 <p>
