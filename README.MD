@@ -66,13 +66,14 @@ Utilizei uma esteira de prompts assertivos para gerar cada etapa do processo cri
 
 <p>
     <img 
-      align=left 
+      align=center 
       margin=10 
-      width=80 
+      width=200 
       src="https://avatars.githubusercontent.com/u/151203779?s=400&u=589dd5cb9033d9161e522ce209ddb344cc3737e0&v=4"
     />
-    <p>&nbsp&nbsp&nbspBernardo Moreira<br>
+    <p align=center>&nbsp&nbsp&nbspBernardo Moreira<br>
     &nbsp&nbsp&nbsp
+    align=center
     <a href="https://www.linkedin.com/in/bernardo-moreira-791b0134/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
